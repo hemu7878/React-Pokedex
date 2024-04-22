@@ -1,0 +1,54 @@
+.Navbar {
+  border-bottom: solid 1px black;
+  padding: 12px 32px;
+}
+.logo {
+  font-size: 2rem;
+  margin: 0;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../../public/images/1.jpg);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: "Pacifico";
+}
+/* animation */
+/* .logo{
+  background-image: linear-gradient(
+    to right,
+    #54b3d6,
+    #54b3d6 50%,
+    #000 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  display: inline-block;
+  padding: 5px 0;
+  position: relative;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+  }
+.logo:before{
+  content: '';
+  background: #54b3d6;
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  transition: all 0.3s ease-in-out;
+}
+.logo:hover{
+  background-position: 0;
+}
+.logo:hover::before{
+  width:100%;
+} */
+
+/* animation 2 */

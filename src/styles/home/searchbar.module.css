@@ -1,0 +1,24 @@
+.SearchBar {
+  /* background-color: #424242; */
+  background-color: #00897b;
+  padding: 24px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  border-bottom: solid 1px black;
+  
+}
+.SearchBarinner {
+  padding: 6px;
+  border: none;
+}
+.SearchBarBtn {
+  padding: 8px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

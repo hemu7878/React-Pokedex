@@ -1,0 +1,21 @@
+.Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  gap: 16px;
+}
+.Container p {
+  margin: 0;
+  font-size: 2rem;
+}
+.name {
+  font-weight: bold;
+  font-family: "Dancing Script", cursive;
+
+}
+.number {
+    color: #616161;
+    font-family: "Dancing Script", cursive;
+
+}

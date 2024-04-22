@@ -1,0 +1,17 @@
+.footer {
+  /* background-color: #424242; */
+  background-color: #00897b;
+  border-top: solid 1px black;
+  color: white;
+}
+.footerInfo {
+  display: flex;
+  justify-content: center;
+  padding: 8px 20px;
+  align-items: center;
+  background-image: url(../../../public/images/1.jpg);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}

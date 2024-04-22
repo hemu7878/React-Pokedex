@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  padding: 14px;
+  gap: 12px;
+  justify-content: center;
+  width: 80%;
+}
+.container button {
+  border-radius: 12px;
+  flex-grow: 1;
+  font-weight: 700;
+  padding: 10px;
+}
